@@ -1,0 +1,12 @@
+{
+    "namespace": "thisworkspace",
+    "type": "record",
+    "name": "Person",
+    "doc": "A pair of strings.",
+    "fields": [
+        {"name": "id","type": "string"},
+        {"name": "pname","type": "string"},
+        {"name": "favnumber",  "type": ["int", "null"]},
+        {"name": "favcolor", "type": ["string", "null"]}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "record",
+    "name": "User",
+    "doc": "A pair of strings.",
+    "fields": [
+        {"name": "id","type": "string"},
+        {"name": "pname","type": "string", "default":"unknown"},
+        {"name": "age","type": "int","order":"descending"},
+        {"name": "favnumber",  "type": ["int", "null"]},
+        {"name": "favcolor", "type": ["string", "null"]}
+    ]
+}

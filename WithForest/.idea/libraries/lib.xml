@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-tags_2.10-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/hadoop-core-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-core_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-core_2.10-1.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-network-common_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/scala-actors-migration.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-sql_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-launcher_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/scala-reflect.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/scala-library.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/hadoop-client-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/commons-lang3-3.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-unsafe_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/avro-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-sql_2.10-1.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/scala-actors.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/avro-compiler-1.7.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-catalyst_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-network-common_2.10-1.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-network-shuffle_2.10-1.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-network-shuffle_2.10-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/slf4j-simple-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/spark-1.6.1-bin-hadoop2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/forest/lib/scala-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

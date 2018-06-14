@@ -1,0 +1,8 @@
+模拟master-worker模式
+master负责分配任务, 启动worker, 收集worker的计算结果
+        需要一个盛放任务的容器   A
+        需要一个盛放worker的容器 B
+        需要一个盛放结果集的容器 C
+worker负责从master上面获取任务, 执行计算, 向master返回计算结果
+        具备获取A和C引用的能力
+task抽象任务

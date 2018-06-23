@@ -1,9 +1,6 @@
 package alex.chapter14
 
 
-import alex.day0323.Animal
-
-
 //定义样例类
 abstract class Amount
 case class Dollar(x:Double) extends Amount
@@ -64,7 +61,6 @@ object Sparrow {
         //scala模式匹配可直接进行类型匹配, 而不需要isInstanceOf[T]进行判断
         val bird = new Bird(2)
         bird match {
-            case a: Animal => println("I am a bird")
             case a: Flyable => println("I can fly") //如果第一个会匹配上, 所以这里会报错 unreadhable code
             case _ => println("not me .. ")
         }

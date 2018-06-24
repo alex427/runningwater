@@ -39,6 +39,7 @@
               <goal>shade</goal>
             </goals>
             <configuration>
+              <shadedClassifierName>forestforest</shadedClassifierName>
               <filters>
                 <filter>
                   <artifact>*:*</artifact>

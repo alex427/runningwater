@@ -1,18 +1,19 @@
-package java.decodeco;
+package zhiguang.designpattern.decoratorr;
 
 /**
  * zhiguang
  */
-public class Sugar extends Beverage{
+public class Milk extends Beverage{
+
     private Beverage beverage;
 
-    public Sugar(Beverage beverage){
+    public Milk(Beverage beverage){
         this.beverage=beverage;
     }
 
     @Override
     public int getprice() {
-        return this.beverage.getprice()+2;
+        return this.beverage.getprice()+5;
     }
 
     public Beverage getBeverage() {
@@ -22,4 +23,5 @@ public class Sugar extends Beverage{
     public void setBeverage(Beverage beverage) {
         this.beverage = beverage;
     }
+
 }

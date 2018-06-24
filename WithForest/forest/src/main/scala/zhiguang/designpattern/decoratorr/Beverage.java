@@ -1,4 +1,4 @@
-package java.decodeco;
+package zhiguang.designpattern.decoratorr;
 
 /**
  * zhiguang
